@@ -1,0 +1,48 @@
+.row h1{
+    text-align: center;
+    font-family: cursive;
+}
+ul{
+    margin-left: 85px;
+}
+ul li a{
+    font-family: sans-serif;
+}
+ul li a:hover{
+    color: aqua;
+    transition: all 0.3s ease-in-out;
+    text-shadow: 0 0 10px rgba(5, 29, 245, 0.5);
+    transform: scale(1.1);
+}
+.nav-search{
+    display: inline-flex;
+}
+input{
+    padding: 7px 10px;
+}
+.fa-magnifying-glass{
+    height: 5px;
+}
+.searchbtn{
+    background-color: #ffffff;
+    border: none;
+    position: relative;
+    top: 8px;
+    right: 40px;
+}
+.signin{
+    margin-left: 100px;
+    padding: 7px 15px 7px 15px;
+    background-color: rgb(34, 238, 238);
+    border: none;
+    border-radius: 10%;
+}
+.custom-size {
+    font-size: 28px;
+    color: rgb(0, 217, 255);
+    margin-left: 25px;
+    margin-top: 5px;
+}
+.card-text{
+    text-align: center;
+}
