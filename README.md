@@ -1,4 +1,4 @@
-# Dazzle - Cosmetics Website 💄✨
+# Dazzle - Cosmetics Website 
 
 ## Overview
 
@@ -7,9 +7,9 @@
 ## Technologies Used
 
 - **Frontend**:
-  - HTML5
+  - HTML
   - CSS3
-  - Bootstrap 5
+  - Bootstrap
 
 - **Backend**:
   - PHP
